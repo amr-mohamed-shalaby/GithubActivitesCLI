@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GitHubActivity.Cli</id>
+    <version>1.0.0</version>
+    <authors>GithubActivity</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="D:\Shalaby\GithubActivity\obj\Release\net10.0\DotnetToolSettings.xml" target="tools\net10.0\any\DotnetToolSettings.xml" />
+    <file src="D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.deps.json" target="tools\net10.0\any\GithubActivity.deps.json" />
+    <file src="D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.dll" target="tools\net10.0\any\GithubActivity.dll" />
+    <file src="D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.pdb" target="tools\net10.0\any\GithubActivity.pdb" />
+    <file src="D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.runtimeconfig.json" target="tools\net10.0\any\GithubActivity.runtimeconfig.json" />
+  </files>
+</package>

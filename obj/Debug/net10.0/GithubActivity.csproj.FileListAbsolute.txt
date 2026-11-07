@@ -1,0 +1,14 @@
+D:\Shalaby\GithubActivity\bin\Debug\net10.0\GithubActivity.exe
+D:\Shalaby\GithubActivity\bin\Debug\net10.0\GithubActivity.deps.json
+D:\Shalaby\GithubActivity\bin\Debug\net10.0\GithubActivity.runtimeconfig.json
+D:\Shalaby\GithubActivity\bin\Debug\net10.0\GithubActivity.dll
+D:\Shalaby\GithubActivity\bin\Debug\net10.0\GithubActivity.pdb
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.AssemblyInfoInputs.cache
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.AssemblyInfo.cs
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.csproj.CoreCompileInputs.cache
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.dll
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\refint\GithubActivity.dll
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.pdb
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\GithubActivity.genruntimeconfig.cache
+D:\Shalaby\GithubActivity\obj\Debug\net10.0\ref\GithubActivity.dll

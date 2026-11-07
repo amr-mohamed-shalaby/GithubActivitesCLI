@@ -1,0 +1,48 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio Code: ignore user-specific workspace files,
+# but allow commonly shared project configuration files.
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# JetBrains Rider / IntelliJ
+.idea/
+
+# Test results and coverage
+[Tt]est[Rr]esult*/
+*.trx
+coverage/
+coverage.*
+
+# NuGet packages and locally packed tool output
+*.nupkg
+*.snupkg
+/nupkg/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment files
+.env
+.env.*
+!.env.example

@@ -1,0 +1,5 @@
+D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.exe
+D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.dll
+D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.deps.json
+D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.runtimeconfig.json
+D:\Shalaby\GithubActivity\bin\Release\net10.0\publish\GithubActivity.pdb
